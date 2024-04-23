@@ -25,8 +25,8 @@ Spec Text:
 
 This proposal is based on the CLDR Date/Time Patterns:
 
- * http://cldr.unicode.org/translation/date-time-patterns#TOC-Basic-Time-Formats
- * http://cldr.unicode.org/translation/date-time-patterns#TOC-Basic-Date-Formats
+ * https://cldr.unicode.org/translation/date-time/date-time-patterns#h.588vo3awdscu
+ * https://cldr.unicode.org/translation/date-time/date-time-patterns#h.aa5zjyepm6vh
  * http://unicode.org/reports/tr35/tr35-dates.html
 
 ### Usage
